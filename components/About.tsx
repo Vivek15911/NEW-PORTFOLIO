@@ -19,10 +19,7 @@ export default function About() {
                     >
                         <div className="aspect-square rounded-2xl overflow-hidden bg-zinc-100 dark:bg-white/5 relative border border-zinc-200 dark:border-white/10 group">
                             {/* Placeholder for a profile image, or a nice abstract graphic */}
-                            <div className="absolute inset-0 bg-gradient-to-br from-brand-green/20 to-brand-yellow/20 group-hover:scale-110 transition-transform duration-700" />
-                            <div className="absolute inset-0 flex items-center justify-center">
-                                <span className="text-9xl font-display font-bold text-brand-green/10">VK</span>
-                            </div>
+                            <img src="/images/vivek.jpg" alt="" />
                         </div>
                         {/* Decorative Elements */}
                         <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-brand-green/10 rounded-full blur-3xl -z-10" />
