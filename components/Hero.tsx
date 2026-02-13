@@ -52,8 +52,8 @@ export default function Hero() {
                     >
                         <MagneticWrapper strength={0.5}>
                             <motion.a
-                                href="/images/VIVEK KUMAR_FRONTEND_.pdf"
-                                download="VIVEK_KUMAR_FRONTEND_CV.pdf"
+                                href="/images/VIVEK KUMAR resume_.pdf"
+                                download="VIVEK KUMAR resume_.pdf"
                                 className="px-8 py-3 bg-brand-green text-white font-medium rounded-full transition-all shadow-lg shadow-brand-green/20 inline-block"
                                 whileHover={{
                                     y: -2,
