@@ -24,7 +24,7 @@ export default function Experience() {
         {
             company: "InternPe",
             role: "C++ Programming Intern",
-            period: "JUNE 2024 – JULY 2024",
+            period: "AUGUST 2024 – SEPTEMBER 2024",
             type: "ONLINE",
             icon: Code,
             color: "text-purple-500",
@@ -40,7 +40,7 @@ export default function Experience() {
         {
             company: "Dev Town",
             role: "Web Development Bootcamp",
-            period: "JUNE 2025", // Kept as user provided, though possibly 2024?
+            period: "JULY 2025 - AUGUST 2025", // Kept as user provided, though possibly 2024?
             type: "ONLINE",
             icon: Globe,
             color: "text-orange-500",
